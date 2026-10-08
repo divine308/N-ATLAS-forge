@@ -28,7 +28,7 @@ pyasn1==0.4.8
 pycparser==3.0
 pydantic==2.11.3
 pydantic-settings==2.8.1
-pydantic_core==2.33.2
+pydantic_core==2.33.1
 python-dotenv==1.1.0
 python-jose==3.4.0
 python-multipart==0.0.20
