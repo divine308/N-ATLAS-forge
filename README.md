@@ -19,12 +19,6 @@ https://github.com/divine308/N-ATLAS-forge-frontend
 **Frontend:**
 https://n-atlas-forge-frontend.vercel.app
 
-**Backend API:**
-https://n-atlas-forge.onrender.com
-
-**API Documentation:**
-https://n-atlas-forge.onrender.com/docs
-
 ## What Forge Provides
 
 N-ATLAS Forge is designed as a developer-facing environment rather than a single-purpose AI application.
